@@ -1,4 +1,4 @@
-# Spark AR Bowling
+# Spark AR Medieval Shoot - Project for Facebook Hackathon
 
 ### Getting Started
 run ``` npm i ```
